@@ -46,6 +46,7 @@ How to Run:
 
 Sample Output:
 1. https://github.com/AmimaBatool/CodeAlpha_Login-Registration-System/blob/main/SampleOutput_Login-Registration-System_Part-1.png
+2. https://github.com/AmimaBatool/CodeAlpha_Login-Registration-System/blob/main/SampleOutput_Login-Registration-System_Part-2.png
 
 What I Learned:
 1. Create and use functions in C++.
